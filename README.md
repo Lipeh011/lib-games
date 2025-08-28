@@ -5,8 +5,7 @@ LibGames é um sistema simples, porém eficiente, para gerenciar uma biblioteca 
 Ideal para quem quer controlar sua coleção de jogos de forma organizada, armazenando dados importantes como plataforma, gênero, nota, desenvolvedora e status do jogo (zerado, jogando, não iniciado).
 
 ## Diagrama de classe inicial
-![](https://media.discordapp.net/attachments/1250289117909090375/1382872077714980965/raw.png?ex=684cbb7b&is=684b69fb&hm=7d7c5d7b609844f2e3179a44f7662e64af77acc8dd30eeccc2bff55d0dd91342&=&format=webp&quality=lossless&width=379&height=569)
-)
+![Preview](https://github.com/user-attachments/assets/dcd9e8a6-180e-41c0-b574-f8962a276737)
 ## Funcionalidades
 Cadastrar jogos: Permite adicionar novos jogos com informações completas.
 Listar jogos: Exibe todos os jogos cadastrados com detalhes.
